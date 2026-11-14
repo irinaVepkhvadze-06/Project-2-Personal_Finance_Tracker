@@ -1,0 +1,72 @@
+[
+    {
+        "transaction_type": "Income",
+        "amount": 6000.0,
+        "category": "Salary",
+        "data": "30.11.2026",
+        "comment": "My Salary"
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 7000.0,
+        "category": "Salary",
+        "data": "03.11.2026",
+        "comment": "My salary"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 400.0,
+        "category": "Utilites",
+        "data": "13.12.2026",
+        "comment": "montly  Utilites"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 300.0,
+        "category": "food",
+        "data": "18.11.2026",
+        "comment": "Food expenses"
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 800.0,
+        "category": "Bonus",
+        "data": "17.12.2026",
+        "comment": "monthly bonus"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 70.0,
+        "category": "fuel",
+        "data": "06.12.2026",
+        "comment": "fuel"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 50.0,
+        "category": "pharmacy",
+        "data": "09.12.2026",
+        "comment": "Pharmacy"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 600.0,
+        "category": "Bonus",
+        "data": "09.12.2026",
+        "comment": "Bonus new"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 400.0,
+        "category": "Grocery",
+        "data": "14.12.2026",
+        "comment": "Grocery"
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 7000.0,
+        "category": "Salary",
+        "data": "05.11.2026",
+        "comment": "October salary"
+    }
+]
